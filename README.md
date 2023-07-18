@@ -12,5 +12,16 @@
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
 - ⚡ Fun fact: slash youth, may be?
 
+
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+
 ![Buqi's Github Stats](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
