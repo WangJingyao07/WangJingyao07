@@ -5,6 +5,7 @@
   <a href="https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN">GoogleScholar</a>
 </p>
 
+- 😄 I'm new at research
 - 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) 
 - 🌱 I’m currently interested in **Meta-learning, Transfer learning, and Machine learning**
 - 💬 Ask me about **Python**
