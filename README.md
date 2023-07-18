@@ -34,6 +34,6 @@
   </pre>
 </details>
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+![build](https://github.com/WangJingyao07/WangJingyao07/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
+![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
