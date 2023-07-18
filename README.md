@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Buqi.</h2>
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Jingyao-Wang-15">ResearchGate</a> •
+  <a href="https://www.zhihu.com/people/wang-dou-ya-11">Blog</a>
+  <a href="https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN">GoogleScholar</a>
+</p>
 
-<!--
-**WangJingyao07/WangJingyao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) 
+- 🌱 I’m currently interested in **Meta-learning, Transfer learning, and Machine learning**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or [email me](jingyao_wang0728@163.com)
+- ⚡ Fun fact: slash youth, may be?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
