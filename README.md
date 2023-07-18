@@ -25,3 +25,15 @@
 
 ![Buqi's Github Stats](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
+
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
+
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
+![pv](https://pageview.vercel.app/?github_user=mopig)
