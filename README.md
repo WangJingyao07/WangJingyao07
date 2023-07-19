@@ -11,6 +11,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
 ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1782--8704-blue?style=flat-square&logo=orcid&logoColor=white)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
 
 - 😄 I'm new at research
 - 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a graduate student
