@@ -24,11 +24,12 @@
 - ⚡ Fun fact: slash youth, may be?
 
 **Current Project:** 
-[Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
-[Multimodal Sentiment Analysis for Health Navigation](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
+- 🎇 [Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
-[PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
+- 🎆 [Multimodal Sentiment Analysis for Health Navigation](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
+
+- 🎈 [PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
 
 
 **Languages and Tools:** 
