@@ -6,6 +6,7 @@
 </p>
 
 ![Blog](https://img.shields.io/badge/Blog-Buqi-informational?style=flat-square&color=black&logo=vercel&logoColor=white)
+![GoogleScholar](https://img.shields.io/badge/Google-btThEsYAAAAJ&hl-inactive?style=flat-square&logo=google&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
 ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1782--8704-blue?style=flat-square&logo=orcid&logoColor=white)
