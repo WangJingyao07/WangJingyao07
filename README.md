@@ -8,7 +8,7 @@
 ![10101734_44e150ff97](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/4f3922b4-e050-43b8-aca6-a14e9f2f9c48)
 
 [![Blog](https://img.shields.io/badge/Blog-Buqi-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://www.zhihu.com/people/wang-dou-ya-11)
-[![GoogleScholar](https://img.shields.io/badge/Google-Research-inactive?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN)
+[![GoogleScholar](https://img.shields.io/badge/Google-Research-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1782--8704-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1782-8704)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 [![My job](https://img.shields.io/badge/My%20job-M.Sc.-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
