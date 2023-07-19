@@ -5,7 +5,7 @@
   <a href="https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN">GoogleScholar</a>
 </p> -->
 
-![10101734_44e150ff97](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/66586868-5075-4c11-a04b-f858a80bd5f9)
+![10101734_44e150ff97](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/4f3922b4-e050-43b8-aca6-a14e9f2f9c48)
 
 [![Blog](https://img.shields.io/badge/Blog-Buqi-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://www.zhihu.com/people/wang-dou-ya-11)
 [![GoogleScholar](https://img.shields.io/badge/Google-Research-inactive?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN)
