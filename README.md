@@ -5,11 +5,12 @@
   <a href="https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN">GoogleScholar</a>
 </p>
 
+![302c421f341eac935b2285113053d3a](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/57b0b841-7ae0-434c-beaa-a9a020440817)
+
 ![Blog](https://img.shields.io/badge/Blog-Buqi-informational?style=flat-square&color=black&logo=vercel&logoColor=white)
-![GoogleScholar](https://img.shields.io/badge/Google-btThEsYAAAAJ&hl-inactive?style=flat-square&logo=google&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
-![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1782--8704-blue?style=flat-square&logo=orcid&logoColor=white)(https://orcid.org/my-orcid?orcid=0000-0003-1782-8704)
+![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1782--8704-blue?style=flat-square&logo=orcid&logoColor=white)
 
 - 😄 I'm new at research
 - 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a graduate student
@@ -17,9 +18,6 @@
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
 - ⚡ Fun fact: slash youth, may be?
-
-
-![302c421f341eac935b2285113053d3a](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/57b0b841-7ae0-434c-beaa-a9a020440817)
 
 
 **Languages and Tools:** 
