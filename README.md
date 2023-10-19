@@ -53,6 +53,6 @@
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 
-![Buqi's Github Stats](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
 
+![Buqi's Github Stats](https://github-readme-stats.vercel.app/api?username=WangJingyao07&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
