@@ -38,9 +38,9 @@
     <a href="https://www.bjut.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/4bd575d0-86b2-4625-9bbe-a4f1cf08fc5f" alt="bjut" width="60" height="60"/> </a> &nbsp;
    <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/aeb2aee0-55f7-4ac0-967d-320cf4723339" alt="Microsoft" width="70" height="60"/> </a> &nbsp;
     <a href="https://www.baai.ac.cn/english.html" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/b8e2acb0-339d-4a54-9069-9d52c19a4f27" alt="BAAI" width="80" height="60"/> </a> &nbsp;
-   <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="![e87645c36b44f3882b66b7c68a0dd87](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/fa2e4aee-58e5-481a-b869-53b5582bc42f)
+   <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/fa2e4aee-58e5-481a-b869-53b5582bc42f)
 " alt="ucas" width="60" height="60"/> </a> &nbsp;
-   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="![54a19638341b2a75181a1e564c611a4](https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547)
+   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547)
 " alt="iscas" width="60" height="60"/> </a> 
 </p>
 
