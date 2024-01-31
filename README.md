@@ -66,12 +66,12 @@
     </td>
     <td align="center">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
-<!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=Charmve&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
+<!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=WangJingyao07&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
     </td>
   </tr>
   <tr>
     <td colspan="2" rowspan="1" align="center">
-      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.reactions.svg" alt=""></img>
+      <img src="https://github.com/WangJingyao07/WangJingyao07/blob/master/src/assert/metrics.plugin.reactions.svg" alt=""></img>
     </td>
   </tr>
   <tr>
@@ -84,11 +84,9 @@
   <tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
+      <img src="https://github.com/WangJingyao07/WangJingyao07/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
     </td>
   </tr>
   <tr>
     <td>
 
-
-**:octocat: Idols <sup><i>respect!</i></sup>**
