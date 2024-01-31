@@ -56,3 +56,39 @@
 
 ![Buqi's Github Stars](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
+
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+    </td>
+    <td align="center">
+      <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
+<!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=Charmve&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="1" align="center">
+      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.reactions.svg" alt=""></img>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4" align="center" width="42%">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
+    </td>
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+
+**:octocat: Idols <sup><i>respect!</i></sup>**
