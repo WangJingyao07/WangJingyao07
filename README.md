@@ -75,18 +75,5 @@
     </td>
   </tr>
   <tr>
-    <td colspan="1" rowspan="4" align="center" width="42%">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg" alt=""></img>
-    </td>
-    <td align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
-    </td>
-  <tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/WangJingyao07/WangJingyao07/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
-    </td>
-  </tr>
-  <tr>
     <td>
 
