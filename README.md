@@ -31,6 +31,10 @@
 
 - 🎈 [PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
 
+- 🌈 [Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
+
+- 🥇 [Meta-Learning-Papers-with-Code](https://github.com/WangJingyao07/Meta-Learning-Papers-with-Code)
+
 
 **Universities and Institutions:** 
 
