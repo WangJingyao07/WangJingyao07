@@ -59,7 +59,7 @@
 
 
 ![Buqi's Github Stars](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
 
 </table>
 
