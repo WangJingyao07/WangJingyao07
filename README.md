@@ -19,7 +19,30 @@
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
 - ⚡ Fun fact: slash youth, may be?
 
-**Current Project & Research:** 
+
+## **Universities and Institutions:** 
+
+<p align="left"> 
+    <a href="https://www.bjut.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/4bd575d0-86b2-4625-9bbe-a4f1cf08fc5f" alt="bjut" width="60" height="60"/> </a> &nbsp;
+   <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/aeb2aee0-55f7-4ac0-967d-320cf4723339" alt="Microsoft" width="70" height="60"/> </a> &nbsp;
+    <a href="https://www.baai.ac.cn/english.html" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/b8e2acb0-339d-4a54-9069-9d52c19a4f27" alt="BAAI" width="80" height="60"/> </a> &nbsp;
+   <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/fa2e4aee-58e5-481a-b869-53b5582bc42f" alt="ucas" width="70" height="65"/> </a> &nbsp;
+   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547" alt="iscas" width="80" height="70"/> </a> 
+</p>
+ 
+
+## **Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+
+
+## **Current Project & Research:** 
 
 ![Stars](https://img.shields.io/github/stars/WangJingyao07)
 
@@ -31,7 +54,7 @@
 
 - 🌈 [Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
-**Paper & Baselines Summary:** 
+## **Paper & Baselines Summary:** 
 
 ![Stars](https://img.shields.io/github/stars/WangJingyao07/Meta-Learning-Papers-with-Code)
 
@@ -43,27 +66,6 @@
 
 - 🏅 [LLM-Papers-with-Code](https://github.com/WangJingyao07/LLM-Papers-with-Code)
 
-
-**Universities and Institutions:** 
-
-<p align="left"> 
-    <a href="https://www.bjut.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/4bd575d0-86b2-4625-9bbe-a4f1cf08fc5f" alt="bjut" width="60" height="60"/> </a> &nbsp;
-   <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/aeb2aee0-55f7-4ac0-967d-320cf4723339" alt="Microsoft" width="70" height="60"/> </a> &nbsp;
-    <a href="https://www.baai.ac.cn/english.html" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/b8e2acb0-339d-4a54-9069-9d52c19a4f27" alt="BAAI" width="80" height="60"/> </a> &nbsp;
-   <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/fa2e4aee-58e5-481a-b869-53b5582bc42f" alt="ucas" width="70" height="65"/> </a> &nbsp;
-   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547" alt="iscas" width="80" height="70"/> </a> 
-</p>
- 
-
-**Languages and Tools:** 
-
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 
 
 ![Buqi's Github Stars](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true)
