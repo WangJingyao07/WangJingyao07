@@ -37,6 +37,8 @@
 
 **Paper & Baselines Summary:** 
 
+![Stars](https://img.shields.io/github/stars/WangJingyao07/Meta-Learning-Papers-with-Code)
+
 - 🥇 [Meta-Learning-Papers-with-Code](https://github.com/WangJingyao07/Meta-Learning-Papers-with-Code)
 
 - 🥈 [Brain-and-Cognition-Papers-with-Code](https://github.com/WangJingyao07/Brain-and-Cognition-Papers-with-Code)
