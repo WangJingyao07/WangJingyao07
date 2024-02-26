@@ -23,7 +23,7 @@
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
 - ⚡ Fun fact: slash youth, may be?
 
-**Current Project:** 
+**Current Project & Research:** 
 
 - 🎇 [Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
@@ -33,10 +33,15 @@
 
 - 🌈 [Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
-**Paper & Research Summary:** 
+**Paper & Baselines Summary:** 
 
 - 🥇 [Meta-Learning-Papers-with-Code](https://github.com/WangJingyao07/Meta-Learning-Papers-with-Code)
 
+- 🥈 [Brain-and-Cognition-Papers-with-Code](https://github.com/WangJingyao07/Brain-and-Cognition-Papers-with-Code)
+
+- 🥉 [Embodied-AI-Papers](https://github.com/WangJingyao07/Embodied-AI-Papers-with-Code)
+
+- 🏅 [LLM-Papers-with-Code](https://github.com/WangJingyao07/LLM-Papers-with-Code)
 
 
 **Universities and Institutions:** 
