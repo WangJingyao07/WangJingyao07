@@ -41,6 +41,18 @@
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 
+<div align="center">
+  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center"  height="45" width="6%" src="https://img.shields.io/badge/-Android-black?logo=android&style=social">
+  <img align="center"  height="45" width="6%" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
+  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center"  height="45" width="5%" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social">
+</div>
 
 ## **Current Project & Research:** 
 
