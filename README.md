@@ -72,8 +72,6 @@
 
 - 🏅 [LLM-Papers-with-Code](https://github.com/WangJingyao07/LLM-Papers-with-Code)
 
-- 🥇 [Self-Supervised-Learning-Papers-with-Code](https://github.com/WangJingyao07/Self-Supervised-Learning-Papers-with-Code)
-
 ![Buqi's Github Stars](https://github-readme-stats.vercel.app/api?username=WangJingyao07&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJingyao07&hide=TeX&layout=compact)
 
