@@ -14,7 +14,7 @@
 
 - 😄 I'm new at research
 - 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a postgraduate student
-- 🌱 I’m currently interested in **Meta-learning, Transfer learning, Cognitive Science, and Embodied Intelligence**
+- 🌱 I’m currently interested in **Meta-Learning, Transfer Learning, Cognitive Science, and Embodied Intelligence**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
 - ⚡ Fun fact: slash youth, may be?
