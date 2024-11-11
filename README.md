@@ -60,6 +60,8 @@
 
 - 🌈 [Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
+- 🌈 [Hacking Task Confounder in Meta-Learning](https://github.com/WangJingyao07/MetaCRL)
+
 ## **Paper & Baselines Summary:** 
 
 - 🥇 [Meta-Learning-Papers-with-Code](https://github.com/WangJingyao07/Meta-Learning-Papers-with-Code)
