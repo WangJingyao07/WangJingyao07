@@ -13,7 +13,7 @@
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
 
 - 😄 I'm new at research
-- 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a postgraduate student
+- 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a PhD student
 - 🌱 I’m currently interested in **Meta-Learning, Transfer Learning, Multi-Modal Representation Learning, and Embodied Intelligence**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: [@buqi](https://www.zhihu.com/people/wang-dou-ya-11) on zhihu or email: <jingyao_wang0728@163.com>
