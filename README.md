@@ -54,13 +54,13 @@
 
 - 🎇 [Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
-- 🎆 [Multimodal Sentiment Analysis for Health Navigation](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
+- 🎆 [Multimodal Sentiment Analysis for Health Navigation [TOMM 2023]](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
 
 - 🎈 [PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
 
-- 🌈 [Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
+- 🌈 [Awesome Task Sampling for Meta-Learning [IJCV 2024]](https://github.com/WangJingyao07/Adaptive-Sampler)
 
-- 🌈 [Hacking Task Confounder in Meta-Learning](https://github.com/WangJingyao07/MetaCRL)
+- 🌈 [Hacking Task Confounder in Meta-Learning [IJCAI 2024]](https://github.com/WangJingyao07/MetaCRL)
 
 ## **Paper & Baselines Summary:** 
 
