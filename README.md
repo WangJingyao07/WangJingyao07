@@ -52,7 +52,7 @@
 
 ![Stars](https://img.shields.io/github/stars/WangJingyao07)
 
-- 🎇 [Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
+- 🎇 [[IEEE SMDC Competition Award] Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
 - 🎆 [[TOMM 2023] Multimodal Sentiment Analysis for Health Navigation](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
 
