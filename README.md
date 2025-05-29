@@ -63,6 +63,9 @@
 -  [[IJCV 2024] Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
 -  [[IJCAI 2024] Hacking Task Confounder in Meta-Learning](https://github.com/WangJingyao07/MetaCRL)
+  
+-  [[ICML 2025] Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://github.com/WangJingyao07/Multi-Modal-Base)
+
 
 ## **Paper & Baselines Summary:** 
 
