@@ -60,7 +60,7 @@
 
 -  [PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
 
--  [[IJCV 2024] Awesome Task Sampling for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
+-  [[IJCV 2024] Towards Task Sampler Learning for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
 -  [[IJCAI 2024] Hacking Task Confounder in Meta-Learning](https://github.com/WangJingyao07/MetaCRL)
   
