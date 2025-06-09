@@ -11,6 +11,7 @@
 [![My job](https://img.shields.io/badge/My%20job-Ph.D.-success?style=flat-square&logo=microgenetics&logoColor=white)](http://www.is.cas.cn/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07)
+![Profile Views](https://komarev.com/ghpvc/?username=WangJingyao07&color=brightgreen)
 
 
 - 😄 I'm new at research
