@@ -65,7 +65,7 @@
 
 -  [[IJCAI 2024] Hacking Task Confounder in Meta-Learning](https://github.com/WangJingyao07/MetaCRL)
   
--  [[ICML 2025] Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://github.com/WangJingyao07/Multi-Modal-Base)
+-  [[ICML 2025] Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://wangjingyao07.github.io/C3R.github.io/)
 
 
 ## **Paper & Baselines Summary:** 
