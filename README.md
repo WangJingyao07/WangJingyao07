@@ -67,6 +67,8 @@
   
 -  [[ICML 2025] Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://wangjingyao07.github.io/C3R.github.io/)
 
+-  [[ICML 2025] On the Out-of-Distribution Generalization of Self-Supervised Learning](https://wangjingyao07.github.io/PID.github.io/)
+
 
 ## **Paper & Baselines Summary:** 
 
