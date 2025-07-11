@@ -67,6 +67,8 @@
 
 -  [[ICML 2025] On the Out-of-Distribution Generalization of Self-Supervised Learning](https://wangjingyao07.github.io/PID.github.io/)
 
+-  [[ACMMM 2025] Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection](https://github.com/WangJingyao07/HCS)
+
 
 ## **Paper & Baselines Summary:** 
 
