@@ -16,7 +16,6 @@
 - 😄 I'm new at research
 - 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a PhD student
 - 🌱 I’m currently interested in **Meta-Learning, Transfer Learning, Multi-Modal Representation Learning, and LLM**
-- ⚡ Fun fact: slash youth, may be?
 
 
 ## **Universities and Institutions:** 
