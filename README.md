@@ -55,7 +55,7 @@
 
 -  [[IEEE CDC 2021] Gesture Recognition Matching based on Dynamic Skeleton](https://github.com/WangJingyao07/Gesture-Recognition)
 
--  [[TOMM 2023] Multimodal Sentiment Analysis for Health Navigation](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
+-  [[TOMM 2023] AMSA: Adaptive Multimodal Learning for Sentiment Analysis](https://github.com/WangJingyao07/Multimodal-Sentiment-Analysis-for-Health-Navigation)
 
 -  [[IJCV 2024] Towards Task Sampler Learning for Meta-Learning](https://github.com/WangJingyao07/Adaptive-Sampler)
 
