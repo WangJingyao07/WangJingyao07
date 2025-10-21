@@ -45,7 +45,12 @@
   <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg">
 </div>
 
-## **Current Project & Research:** 
+## **Current Project:**
+
+- 🔥 [Awesome-GRPO: A curated and extensible repository for GRPO and its variants](https://github.com/WangJingyao07/Awesome-GRPO)
+
+
+## **Research:** 
 
 ![Stars](https://img.shields.io/github/stars/WangJingyao07)
 
