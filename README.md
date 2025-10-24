@@ -72,6 +72,8 @@
 
 -  [[ACMMM 2025] Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection](https://wangjingyao07.github.io/HCS.github.io/)
 
+-  [[NeurIPS 2025] Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs](https://wangjingyao07.github.io/L2T.github.io/)
+
 
 ## **Paper & Baselines Summary:** 
 
