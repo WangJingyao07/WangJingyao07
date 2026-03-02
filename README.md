@@ -48,13 +48,12 @@
 ## **Current Project:**
 
 - 🔥 [Awesome-GRPO: A curated and extensible repository for GRPO and its variants](https://github.com/WangJingyao07/Awesome-GRPO)
+- 🔥 [[IEEE SMDC Competition Award] Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
 
 ## **Research:** 
 
 ![Stars](https://img.shields.io/github/stars/WangJingyao07)
-
--  [[IEEE SMDC Competition Award] Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
 
 -  [PickBallBot(5mao-五毛): Autonomous Ball Picking Robot with Low Budget](https://github.com/WangJingyao07/PickBallBot-5mao/tree/main)
 
