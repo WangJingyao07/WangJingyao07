@@ -7,7 +7,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Buqi-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://www.zhihu.com/people/wang-dou-ya-11)
 [![GoogleScholar](https://img.shields.io/badge/Google-Research-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://wangjingyao07.github.io/)
 [![My job](https://img.shields.io/badge/My%20job-Ph.D.-success?style=flat-square&logo=microgenetics&logoColor=white)](http://www.is.cas.cn/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WangJingyao07/WangJingyao07)
 ![PV Since 2506](https://komarev.com/ghpvc/?username=WangJingyao07&color=brightgreen)
