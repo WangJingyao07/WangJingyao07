@@ -27,7 +27,7 @@
    <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547" alt="iscas" width="80" height="70"/> </a> 
 </p>
  
-## **Current Project:**
+## **Hot Project:**
 
 - 🔥 [Awesome-GRPO: A curated and extensible repository for GRPO and its variants](https://github.com/WangJingyao07/Awesome-GRPO)
 - 🔥 [[IEEE SMDC Competition Award] Awesome-META+: meta-learning research and practice platform](https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/)
